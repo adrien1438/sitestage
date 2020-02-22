@@ -1,0 +1,36 @@
+h1
+{
+	text-align: center;
+	text-decoration: underline;
+}
+#CGI
+{
+	float: left;
+
+}
+h2
+{
+	text-align: center;
+	text-decoration: underline;
+	color: red
+}
+strong
+{
+	text-decoration: underline;
+}
+h4
+{
+	box-shadow: 6px 6px black; 
+}
+.texte
+{
+	text-decoration: none;
+}
+body
+{
+	background-image: url(https://www.mobix.fr/wp-content/uploads/2014/05/site-background-1024x665.jpg);
+}
+#url
+{
+	float: right;
+}
